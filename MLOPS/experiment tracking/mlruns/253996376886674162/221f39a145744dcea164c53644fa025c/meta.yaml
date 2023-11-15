@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mohdf/Anaconda3/envs/MLOPS/experiment%20tracking/mlruns/253996376886674162/221f39a145744dcea164c53644fa025c/artifacts
+end_time: 1698931921721
+entry_point_name: ''
+experiment_id: '253996376886674162'
+lifecycle_stage: active
+run_id: 221f39a145744dcea164c53644fa025c
+run_name: capricious-fowl-436
+run_uuid: 221f39a145744dcea164c53644fa025c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698931921603
+status: 4
+tags: []
+user_id: mohdf
